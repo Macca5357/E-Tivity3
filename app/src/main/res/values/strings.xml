@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcast Receiver app</string>
+    <string name="time_based_trigger">Schedule Time-based Trigger</string>
+    <string name="notification_based_trigger">Show Notification-based Trigger</string>
+</resources>
