@@ -1,7 +1,7 @@
 /* Student name: Gavin McCarthy
  * Student id: 19237766
  */
-package com.broadcast.receiver;
+        package com.broadcast.receiver;
 
 import androidx.appcompat.app.AppCompatActivity;
 
